@@ -1,0 +1,4 @@
+functions/config/service_account_dev.json
+functions/config/twilio-dev.js
+functions/node_modules
+node_modules
